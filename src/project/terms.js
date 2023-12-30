@@ -1,0 +1,31 @@
+export default function TermsAndconditions(){
+    return(
+        <div style={{ marginBottom: "32px" }}>
+      <div className="row" >
+        <div className="col"></div>
+        <div className="col-7">
+          <br />
+          <h3>Terms & Conditions:</h3>
+          <br/>
+          <h5>Acknowledgment:</h5>
+          <p>PLEASE READ THIS PRIVACY POLICY CAREFULLY. YOU INDICATE THAT YOU UNDERSTAND, 
+            AGREE AND CONSENT TO THIS PRIVACY POLICY. HENCE BY VISITING OUR PLATFORM OR BY 
+            USING / AVAILING ANY OF OUR SERVICE OR PRODUCT, YOU HEREBY GIVE YOUR UNCONDITIONAL 
+            CONSENT OR AGREEMENT TO GIRNAR AS PROVIDED UNDER SECTION 43A AND SECTION 72A OF 
+            INDIAN INFORMATION TECHNOLOGY ACT, 2000 FOR COLLECTION, USE, STORAGE, PROCESSING, 
+            SHARING AND TRANSFER AND DISCLOSURE OF YOUR INFORMATION.
+
+            YOU ACKNOWLEDGE THAT YOU HAVE ALL LEGAL RIGHTS AND LAWFUL AUTHORITY TO SHARE THE 
+            INFORMATION WITH US AND FURTHER ACKNOWLEDGE THAT BY COLLECTING, SHARING, PROCESSING 
+            AND TRANSFERRING INFORMATION PROVIDED BY YOU, SHALL NOT CAUSE ANY LOSS OR WRONFUL GAIN 
+            TO YOU OR ANY OTHER PERSON.
+
+            IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS / USE 
+            OUR PLATFORM OR AVAIL ANY OF OUR SERVICE OR PRODUCT ON OUR PLATFORM.
+          </p>
+        </div>
+        <div className="col"></div>
+      </div>
+    </div>
+    )
+}
